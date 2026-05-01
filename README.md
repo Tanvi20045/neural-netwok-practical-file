@@ -1,6 +1,6 @@
-# 🧠 NNDL Lab Experiments (Neural Networks & Deep Learning)
+# 🧠 Neural Network Lab Experiments (Neural Networks & Deep Learning)
 
-This repository contains the implementation of core **Neural Network and Deep Learning (NNDL)** lab experiments using Python.
+This repository contains the implementation of core **Neural Network and Deep Learning ** lab experiments using Python.
 
 It covers fundamental concepts like **NumPy, Pandas, SciPy, visualization, perceptron, MLP, CNN, RNN, optimization, and Hopfield networks**.
 
