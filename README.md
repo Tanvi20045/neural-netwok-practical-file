@@ -10,7 +10,7 @@ It covers fundamental concepts like **NumPy, Pandas, SciPy, visualization, perce
 
 * **Name:** Tanvi Basist
 * **Course:** B.Tech CSE (3rd Year)
-* **Subject:** NNDL Lab
+* **Subject:** Neural Network Lab
 * **Roll Number:** 2301010166
 
 ---
